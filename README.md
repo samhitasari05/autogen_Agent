@@ -81,7 +81,7 @@ streamlit run src/main.py
 4. Push to the branch and submit a pull request.
 
 ## 📜 License
-This project is licensed under the MIT License. Feel free to use and modify it for educational or research purposes.
+This project is licensed under the MIT License. 
 
 ## 📬 Contact
 For questions or suggestions, feel free to connect with me on **GitHub: [samhitasari05](https://github.com/samhitasari05)**.
